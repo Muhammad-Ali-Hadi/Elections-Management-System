@@ -1,0 +1,13 @@
+----Election Results----
+------------------------
+Votes For PTI : 2
+Votes for PPP : 0
+Votes for PMLN : 0
+Votes for PMLQ : 0
+Votes for MQM : 0
+Votes for JI : 0
+Votes for JUI : 0
+------------------------
+Total Votes Recorded : 2
+------------------------
+Seat Won by : PTI
